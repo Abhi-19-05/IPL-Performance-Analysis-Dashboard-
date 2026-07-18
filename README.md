@@ -122,7 +122,6 @@ A **Star Schema** was implemented by connecting the fact tables with dimension t
 - IPL 2024 Predictions
 - Best Playing XI
 
-> *(Add screenshots of your dashboard here.)*
 
 ---
 
@@ -149,11 +148,7 @@ IPL-Performance-Analytics/
 │── Dashboard/
 │   └── IPL_Analytics.pbix
 │
-│── Images/
-│   ├── Dashboard_Overview.png
-│   ├── Batting_Analysis.png
-│   ├── Bowling_Analysis.png
-│   └── Team_Analysis.png
+│── 
 │
 └── README.md
 ```
@@ -173,8 +168,6 @@ IPL-Performance-Analytics/
 
 **Abhinandan Pakhare**
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
 
 ---
 
